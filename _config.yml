@@ -3,7 +3,7 @@
 title: Daniel Sprockett, PhD
 description: Posdoc | Cornell University | Community Assembly of the Microbiome
 
-baseurl: https://danielsprockett.github.io/gradfolio/ #name of GitHub repository
+baseurl: /research_website #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
