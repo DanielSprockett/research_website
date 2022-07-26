@@ -1,9 +1,9 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Daniel Sprockett, PhD
+description: Posdoc | Cornell University | Community Assembly of the Microbiome
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: https://danielsprockett.github.io/gradfolio/ #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
